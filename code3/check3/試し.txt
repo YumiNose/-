@@ -1,0 +1,11 @@
+﻿#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "確認A" << endl;
+
+    cout << "確認B" << endl;
+
+    cout << "確認C" << endl;
+}

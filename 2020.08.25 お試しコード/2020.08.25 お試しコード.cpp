@@ -25,4 +25,6 @@ int main()
             cout << i << endl;
         }
     }
+
+    cout << "追加文" << endl;
 }
